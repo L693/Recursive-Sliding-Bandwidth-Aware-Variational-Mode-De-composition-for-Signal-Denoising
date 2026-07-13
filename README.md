@@ -6,8 +6,8 @@ This code repository implements and evaluates the **Recursive Sliding-window Ban
 
 | Scenario | Script    | Signal Type | Purpose                                                    |
 |----------|-----------|-------------|------------------------------------------------------------|
-| A        | `demo1.m` | Synthetic + Real | Full denoising benchmark: RSBAVMD vs. VMD, EMD, bandpass filtering |
-| B        | `demo2.m` | Real only  | RSBAVMD decomposition and visualization of measured data   |
+| A        | `demo1.m` | Synthetic   | Full denoising benchmark: RSBAVMD vs. VMD, EMD, filtering  |
+| B        | `demo2.m` | Real only   | RSBAVMD decomposition and visualization of measured data   |
 
 Both scripts are **self-contained** — all helper functions are defined at the bottom of each file. No external `.m` file dependencies are required beyond standard MATLAB toolboxes.
 
