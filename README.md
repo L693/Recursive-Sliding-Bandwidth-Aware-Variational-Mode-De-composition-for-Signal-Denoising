@@ -29,7 +29,7 @@ dataset/3 Code/
 The data file is a MATLAB binary `.mat` file (v7 format) containing a single variable:
 
 ```
-Name        Size            Bytes   Class     Attributes
+Name        Size            Bytes   Class 
 Sig      10000x1            80000   double
 ```
 - **Variable name**: `Sig`
